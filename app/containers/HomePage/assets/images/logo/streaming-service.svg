@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="553px" viewBox="0 0 328 553" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>streaming-service</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="streaming-service">
+            <rect id="Rectangle-28" fill="#EEEEEE" x="0" y="41" width="287" height="512" rx="15"></rect>
+            <rect id="Rectangle-28" fill="#D8D8D8" x="30.5550413" y="10" width="287" height="512" rx="15"></rect>
+            <g id="Layer_1" transform="translate(40.000000, 0.000000)">
+                <path d="M272,512 L16,512 C7.552,512 0.64,505.088 0.64,496.64 L0.64,15.36 C0.64,6.912 7.552,1.13686838e-13 16,1.13686838e-13 L272,1.13686838e-13 C280.448,1.13686838e-13 287.36,6.912 287.36,15.36 L287.36,496.64 C287.36,505.088 280.448,512 272,512 L272,512 Z" id="Shape" fill="#09257A"></path>
+                <g id="Group" transform="translate(90.000000, 15.000000)">
+                    <path d="M84.72,466.28 L23.28,466.28 C20.464,466.28 18.16,463.976 18.16,461.16 L18.16,461.16 C18.16,458.344 20.464,456.04 23.28,456.04 L84.72,456.04 C87.536,456.04 89.84,458.344 89.84,461.16 L89.84,461.16 C89.84,463.976 87.536,466.28 84.72,466.28 L84.72,466.28 Z" id="Shape" fill="#7ED321"></path>
+                    <path d="M50.88,10.76 L5.44,10.76 C2.624,10.76 0.32,8.456 0.32,5.64 L0.32,5.64 C0.32,2.824 2.624,0.52 5.44,0.52 L50.88,0.52 C53.696,0.52 56,2.824 56,5.64 L56,5.64 C56,8.456 53.696,10.76 50.88,10.76 L50.88,10.76 Z" id="Shape" fill="#C9C9C9"></path>
+                    <circle id="Oval" fill="#F6A623" cx="84.928" cy="5.648" r="5.128"></circle>
+                    <circle id="Oval" fill="#F8E81C" cx="102.56" cy="5.648" r="5.128"></circle>
+                </g>
+                <rect id="Rectangle-path" fill="#EAEFF3" x="16" y="40.608" width="256" height="409.6"></rect>
+                <g id="Group" transform="translate(47.000000, 152.000000)">
+                    <path d="M96.968,192.456 C44.008,192.456 0.912,149.432 0.912,96.544 C0.912,43.656 44.008,0.632 96.968,0.632 C149.928,0.632 193.016,43.656 193.016,96.544 C193.016,149.432 149.928,192.456 96.968,192.456 L96.968,192.456 Z" id="Shape" fill="#65DCE1"></path>
+                    <path d="M70.288,134.856 L70.288,55.272 L144.816,95.072 L70.288,134.856 L70.288,134.856 Z M78.288,68.616 L78.288,121.512 L127.832,95.064 L78.288,68.616 L78.288,68.616 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

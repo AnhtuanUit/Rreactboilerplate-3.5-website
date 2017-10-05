@@ -1,0 +1,17 @@
+.common-button{
+    border-radius: 40px;
+    padding: 0 48px;
+    height: 62px;
+    border: none;
+    font-size: 15px;
+}
+.common-button[disabled] {
+  cursor: not-allowed;
+}
+.common-button:focus {
+  outline: 0 none;
+}
+.common-button:hover {
+  box-shadow: 0 7px 7px 0 rgba(69,194,185,.98);
+  background-color: #167e77;
+}
